@@ -95,6 +95,10 @@ AWS Professional Services
 
 [eksctl](https://eksctl.io/)
 
+### Windows Containers
+
+[Documentation](https://learn.microsoft.com/en-us/virtualization/windowscontainers/)
+
 ### AWS Cloud Development Kit (CDK)
 
 [Documentation](https://docs.aws.amazon.com/cdk/)
